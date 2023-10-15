@@ -611,7 +611,6 @@ a.button-dot:hover:before {
 
 .text-slider-header-quotes {
     margin-bottom: 60px;
-    background-image: url(images/quotes_image.png);
     background-repeat: no-repeat;
     width: 87px;
     height: 74px;
@@ -1533,6 +1532,11 @@ footer .footer-social-divider:before {
     .member-info {    
         padding: 65px 80px;    
     }
+    .home-image-mine{
+        position: absolute;
+        left: 40%;
+        overflow: hidden;
+    }
 
 }
 
@@ -1542,6 +1546,11 @@ footer .footer-social-divider:before {
         font-size: 17px;
         line-height: 28px;    
     }    
+    .home-image-mine{
+        position: absolute;
+        left: 40%;
+        overflow: hidden;
+    }
 
 }
 
@@ -1668,6 +1677,10 @@ footer .footer-social-divider:before {
 
     #header-main-menu {
         padding-bottom: 70px;
+    }
+    .home-image-mine{
+        position: absolute;
+        left: 30%;
     }
 
     .menu-wrapper {
@@ -1986,7 +1999,11 @@ footer .footer-social-divider:before {
 
     .page-title-holder {
         height: 100px;
-    }   
+    } 
+    .home-image-mine{
+        position: absolute;
+        left: 0%;
+    }  
 
     .section h3.entry-title {
         margin-top: 18px;
@@ -2109,6 +2126,11 @@ footer .footer-social-divider:before {
         text-align: center;
         font-size: 40px;        
     }
+    .home-image-mine{
+        position: absolute;
+        left: 40%;
+        overflow: hidden;
+    }
 
 }
 
@@ -2147,7 +2169,9 @@ footer .footer-social-divider:before {
 
     .workbutton {
         padding-top: 10px; /* Adjust padding for buttons on mobile */
-    }.home-image-mine{
+    }
+    .home-image-mine{
         position: absolute;
+        left: 0%;
     }
 }
