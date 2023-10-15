@@ -2147,5 +2147,7 @@ footer .footer-social-divider:before {
 
     .workbutton {
         padding-top: 10px; /* Adjust padding for buttons on mobile */
+    }.home-image-mine{
+        position: absolute;
     }
 }
