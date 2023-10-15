@@ -85,3 +85,8 @@ input:focus, textarea:focus
 {
     outline: none;
 }
+
+
+@media screen and (max-width: 1020px) {
+    overflow-x: hidden;
+}
